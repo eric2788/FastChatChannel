@@ -1,0 +1,5 @@
+name: FastChatChannel
+main: com.ericlam.mc.fastchatchannel.FCChannel
+version: 0.0.9
+api-version: "1.13"
+author: Eric Lam
